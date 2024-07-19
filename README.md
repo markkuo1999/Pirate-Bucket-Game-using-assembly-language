@@ -1,5 +1,5 @@
 # Pirate-Bucket-Game-using-assembly-language
 
-The game is a party game released in 1979. The game process is exciting and interesting. During the game, players take turns to insert a small sword into the pirate barrel. If it touches the mechanism after inserting it, the pirate will pop out of the barrel. Players who let the pirates be ejected will be eliminated. The game continues until the players are eliminated one after another and only one player is alive. That player also becomes the winner of the game.
+This game is a party game released in 1979, featuring exciting and engaging gameplay. Players take turns inserting a small sword into a pirate barrel. If the sword triggers the mechanism, the pirate will pop out of the barrel. Players who cause the pirate to eject will be eliminated. The game continues until all but one player are eliminated, with the last remaining player declared the winner.
 
-Our game supports two player dual of the pirate bucket game.
+Our game supports a two-player duel mode of the pirate barrel game.
